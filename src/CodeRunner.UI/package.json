@@ -14,7 +14,7 @@
     "@fortawesome/free-solid-svg-icons": "^6.4.0",
     "@fortawesome/vue-fontawesome": "^3.0.3",
     "ace-builds": "^1.18.0",
-    "axios": "^1.4.0",
+    "axios": "^1.6.0",
     "highlight.js": "^11.7.0",
     "rollup-plugin-copy": "^3.4.0",
     "vite-plugin-copy": "^0.1.6",
@@ -28,6 +28,6 @@
     "eslint": "^8.34.0",
     "eslint-plugin-vue": "^9.9.0",
     "prettier": "^2.8.4",
-    "vite": "^4.1.4"
+    "vite": "^4.5.3"
   }
 }
